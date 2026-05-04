@@ -37,4 +37,5 @@ jobs: # Trabalhos a serem executados
         run: npm install
 
       - name: Rodar a build
-        run: npm build
+        run: npm run build
+        
